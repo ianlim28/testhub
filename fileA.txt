@@ -1,2 +1,4 @@
 feature A
 feature C
+feature B
+
